@@ -1,5 +1,1 @@
-<div id="header" align="center">
-  <a src="https://github-readme-streak-stats.herokuapp.com/?user=keinEntwickler" width="400">
-    https://git.io/streak-stats
-  </a>
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keinEntwickler&theme=neon-dark)](https://git.io/streak-stats)
